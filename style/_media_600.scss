@@ -1,0 +1,103 @@
+@media screen and (max-width: 600px) {
+
+    * {
+        font-size: 95%;
+    }
+
+    h3 {
+        font-size: 200%;
+    }
+
+    .box-one-form h1 {
+        padding: 0 1%;
+    }
+
+    #carinsurance {
+        flex-flow: column;
+        justify-content: stretch;
+    }
+
+    .formpair {
+        width: 100%;
+        align-self: center;
+    }
+
+    label, input, select {
+        font-size: 250%;
+    }
+    
+    input, select {
+        font-size: 300%;
+    }
+
+    #buttoncalc {
+        font-size: 350%;  
+    }
+
+    .box-two {
+        flex-flow: column;
+        justify-content: center;
+    }
+    
+    .box-two-inside {
+        width: 80%;
+        align-self: center;
+    }
+
+    .box-two-inside p, .box-two-inside h4 {
+        font-size: 200%;
+    }
+    
+    .box-two-inside li {
+        font-size: 200%;
+    }
+
+    //navbar
+    nav li {
+        margin: 0 4%;
+        font-size: 250%;
+    }
+
+
+    //header
+    img.logo {
+		height: auto;
+        width: 70%;
+        margin: auto auto; 
+        padding: 1% 5%;
+	}
+    
+    div.header img.banner {
+		display: none;
+	}
+
+
+    //footer
+    .footer img.logo {
+        width: 40%;
+        height: auto;
+		align-self: center;
+		margin: 5% auto;
+	}
+
+	.footer p {
+		font-size: 150%;
+    }
+    
+    //team-page
+    .person {
+        width: 45%;
+    }
+
+    .overlay_text { 
+        font-size: 2.1vw;
+    }
+
+    .overlay p:first-child {
+        font-size: 4vw;
+    }
+
+    .person p {
+        font-size: 4vw;
+    }
+  }

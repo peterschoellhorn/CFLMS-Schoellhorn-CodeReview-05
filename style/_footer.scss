@@ -1,0 +1,20 @@
+footer {
+	margin-top: 5%;
+	background-color: $color-dark;
+	color: white;
+	
+}
+
+footer div.footer {
+	padding: 0 2%;
+	text-align: center;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: center;
+}
+
+.footer img.logo {
+	align-self: flex-end;
+	width: 20%;
+	margin: 3% 0; 
+}
