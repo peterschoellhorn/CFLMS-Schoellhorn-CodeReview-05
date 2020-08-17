@@ -2,30 +2,37 @@ var moviedata = `
     [{
         "name": "Fight Club",
         "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
-        "image": "img/pic1.jpg"
+        "image": "img/pic1.jpg",
+        "count":1
     }, {
         "name": "Das Leben der Anderen",
         "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
-        "image": "img/pic2.jpg"
+        "image": "img/pic2.jpg",
+        "count":1
     }, {
         "name": "Gegen die Wand",
         "description": "With the intention to break free from the strict familial restrictions, a suicidal young woman sets up a marriage of convenience with a forty-year-old addict, an act that will lead to an outburst of envious love.",
-        "image": "img/pic3.jpg"
+        "image": "img/pic3.jpg",
+        "count":1
     }, {
         "name": "Victoria",
         "description": "A young Spanish woman who has recently moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret.",
-        "image": "img/pic4.jpg"
+        "image": "img/pic4.jpg",
+        "count":1
     }, {
         "name": "Trainspotting",
         "description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
-        "image": "img/pic5.jpg"
+        "image": "img/pic5.jpg",
+        "count":1
     }, {
         "name": "Moon",
         "description": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.",
-        "image": "img/pic6.jpg"
+        "image": "img/pic6.jpg",
+        "count":1
     }, {
         "name": "Alien",
         "description": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
-        "image": "img/pic7.jpg"
+        "image": "img/pic7.jpg",
+        "count":1
     }]
 `
